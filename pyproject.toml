@@ -1,6 +1,6 @@
 [project]
 name = "lowest-common-ancestor"
-version = "0.1.4"
+version = "0.1.5"
 description = "Preprocesses a tree to answer lowest common ancestor queries in constant time."
 requires-python = ">=3.10"
 dependencies = []
